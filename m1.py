@@ -1,2 +1,2 @@
 print("b1-m1")
-print("m2")
+print("b1-m2")
